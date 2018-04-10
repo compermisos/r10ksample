@@ -7,4 +7,5 @@ mod 'puppetlabs/stdlib'
 mod 'nginx',
   :git => 'https://github.com/voxpupuli/puppet-nginx',
   :branch => 'master'
+#  :branch => :control_branch
 
