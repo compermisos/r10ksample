@@ -1,0 +1,6 @@
+---
+  timezone::region: 'America'
+  timezone::locality: 'Mexico_City'
+
+  log_level: INFO
+
