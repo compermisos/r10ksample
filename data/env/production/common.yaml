@@ -3,4 +3,8 @@
   timezone::locality: 'Mexico_City'
 
   log_level: INFO
-
+ntp::servers:
+  - 0.ubuntu.pool.ntp.org iburst
+  - 1.ubuntu.pool.ntp.org iburst
+  - 2.ubuntu.pool.ntp.org iburst
+  - 3.ubuntu.pool.ntp.org iburst
